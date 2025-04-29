@@ -1,3 +1,3 @@
 Instale o nmap e rode o comando no terminal no diretorio onde está o Script:
 
-sudo nmap --script analyzer-traffic -p 80 <alvo>
+sudo nmap --script analyzer-traffic -p 80 URL_ALVO_OU_IP
